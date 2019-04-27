@@ -1,0 +1,1 @@
+Browser game of Rock, Paper, Scissors.
